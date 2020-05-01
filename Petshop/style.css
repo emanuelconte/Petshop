@@ -1,0 +1,81 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+font-size:26px;
+	text-indent:15px;
+	
+}
+#servicos{
+	background: rgb(206, 16, 16);
+	color: white;
+	box-shadow: 1px 1px 4px rgb(175, 19, 19);
+
+
+}
+
+
+#corpo{
+	 margin:10;height:1000px;width:97%; padding:10px; background:white;
+}
+#logo{
+	margin:0; height:100px; width:115px; padding:10px; background:rgb(216, 36, 13);
+}
+#contato{
+	background-color: rgb(182, 18, 18);
+	color:white;
+}
+figure.foto-legenda
+{
+	border: 8px solid white;
+	box-shadow: 1px 1px 4px rgb(179, 16, 16);
+	
+}
+#cabeçalho{
+	margin:0; height:100px; padding:10px; background:white;
+	
+
+}
+
+#menu{
+	margin:0;
+	padding: 0;
+	background: rgb(190, 24, 24);
+
+}
+#menu ul{
+	margin: 0;
+	
+	list-style: none;
+}
+#menu ul li{
+	display: inline;
+}
+#menu ul li a{
+	padding: 10px 25px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+}
+
+
+
+#partelogo
+{
+	width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 50px;
+}
+
+
+
+.top_div{
+	position:absolute;
+	width:100%;
+	height:80px;
+	background-color:#FF0000;
+}
+p{
+	text-indent:100px;
+}
